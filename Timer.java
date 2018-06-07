@@ -1,4 +1,4 @@
-ackage scripts;
+package scripts;
  
 /**
  * A Timer
